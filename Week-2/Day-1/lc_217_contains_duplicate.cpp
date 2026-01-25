@@ -5,13 +5,18 @@ using namespace std;
 class Solution {
 public:
     bool containsDuplicate(vector<int>& nums) {
-        unordered_set<long long> us;
-        for(long long x : nums) {
-            if(us.count(x)) {
+        int n = nums.size();
+        unordered_map<int, int> freq;
+
+        for(int x : nums) {
+            freq[x]++;
+        }
+
+        for(const auto& p : freq) {
+            if(p.second > 1) {
                 return true;
                 break;
             }
-            us.insert(x);
         }
         return false;
     }
