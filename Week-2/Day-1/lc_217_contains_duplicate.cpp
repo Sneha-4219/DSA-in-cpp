@@ -15,7 +15,6 @@ public:
         for(const auto& p : freq) {
             if(p.second > 1) {
                 return true;
-                break;
             }
         }
         return false;
