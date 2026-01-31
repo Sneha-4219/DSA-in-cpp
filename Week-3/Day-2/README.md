@@ -104,10 +104,12 @@ Each element enters and leaves the window at most once.
 ---
 
 ## 🚀 Status
-⬜ Day-2 in progress  
-📌 Focused on mastering sliding window mechanics
+✅ Day-2 completed successfully  
+📌 Fixed and variable sliding window patterns practiced
+
 
 ---
 
 ## 🔜 Next
-Add optimized sliding window solutions for both problems
+Day-3: Hashing & Frequency Mastery
+
