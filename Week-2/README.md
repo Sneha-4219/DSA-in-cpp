@@ -91,12 +91,13 @@ This week focuses on **thinking in patterns**, understanding *why* optimizations
 ---
 
 ## 🔜 Next
-Week-3: Strings & Sliding Window Patterns  
+Week-3: LeetCode Practice & Pattern Reinforcement  
 
-Focus areas:
-- Character frequency windows
-- Fixed vs variable window size
-- Optimized substring problems
-- Extending array patterns to strings
+Focus will be on:
+- Applying array, hashing, prefix sum, and two pointer patterns
+- Solving fresh LeetCode problems
+- Improving speed, clarity, and confidence
+- Strengthening interview readiness through practice
 
-Goal is to build fluency in **window-based thinking**, a critical interview skill.
+Week-3 is practice-driven, not concept-heavy.
+
