@@ -1,3 +1,9 @@
+# Week 4 – Day 6: Sliding Window (Pattern Lock)
+
+## 🎯 Goal
+Create a **single-page final reference** that locks the Sliding Window pattern for strings,
+so it can be recalled instantly under interview pressure.
+
 # STRING — SLIDING WINDOW (FINAL)
 
 ## 🎯 Purpose
